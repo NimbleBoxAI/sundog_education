@@ -7,7 +7,7 @@ dependencies:
   - matplotlib
   - tensorflow
   - pandas
-  - sklearn
+  - scikit-learn
   - pydotplus
   - ipython
   - gym
