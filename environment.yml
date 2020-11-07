@@ -1,0 +1,14 @@
+name: sundog-mlcourse
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - tensorflow
+  - pandas
+  - sklearn
+  - pydotplus
+  - ipython
+  - gym
+  - scipy
