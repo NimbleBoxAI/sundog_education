@@ -12,3 +12,4 @@ dependencies:
   - ipython
   - gym
   - scipy
+  - pyspark
