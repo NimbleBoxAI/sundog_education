@@ -6,7 +6,6 @@ dependencies:
   - pandas
   - matplotlib
   - tensorflow
-  - pandas
   - scikit-learn==0.22
   - pydotplus
   - ipython
@@ -14,3 +13,4 @@ dependencies:
   - scipy
   - pyspark
   - statsmodels
+  
